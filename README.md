@@ -1,5 +1,7 @@
 ## Project Overview:
 
+Project_Link:https://prajivinn.github.io/2024/01/02/HR-Analytics.html
+
 Problem Statement 1: "Identify Factors Influencing Employee Attrition"
 
 **Objective**: Determine the factors that contribute to employee attrition within the company and
