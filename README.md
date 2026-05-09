@@ -2,6 +2,8 @@
 
 Project_Link:https://prajivinn.github.io/2024/01/02/HR-Analytics.html
 
+## Context
+
 Problem Statement 1: "Identify Factors Influencing Employee Attrition"
 
 **Objective**: Determine the factors that contribute to employee attrition within the company and
@@ -11,6 +13,7 @@ Problem Statement 2: "Optimize Employee Training Programs"
 
 **Objective**: Analyze the effectiveness of training programs and recommend improvements to enhance employee skills and performance.
 
+These objectives guide the analysis structure and ensure that insights are aligned with practical business decisions.
 
 ## Data Dictionary:
 
@@ -29,6 +32,12 @@ Problem Statement 2: "Optimize Employee Training Programs"
 * Training_Hours: The number of training hours the employee has completed. 
 * Satisfaction_Score: Employee's satisfaction score (e.g., on a scale of 1 to 5).
 * Last_Promotion_Date: Date of the employee's last promotion.
+
+## Expected Impact
+
+*Higher engagement and productivity
+*Lower rehiring and onboarding costs
+*Stronger long-term workforce stability
 
 ## Dashboard
 
